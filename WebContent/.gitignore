@@ -1,0 +1,19 @@
+# Archivos de compilación
+bin/
+build/
+target/
+
+# Archivos temporales
+*.log
+*.class
+
+# Configuraciones del IDE (ajusta según tu IDE)
+.vscode/
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
